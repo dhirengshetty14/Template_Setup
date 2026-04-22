@@ -14,7 +14,7 @@ navigationCompose = "2.8.4"
 composeBom = "2024.09.00"
 
 # DI
-hilt = "2.52"
+hilt = "2.59.2"
 hiltNavCompose = "1.2.0"
 
 # Persistence
